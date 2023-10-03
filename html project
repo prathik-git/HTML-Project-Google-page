@@ -38,7 +38,7 @@ step Nginx :
  
  
  -----+++-------
-Create 2 directories
+Create a directory as below
 mkdir -p ~/docker-nginx/html
 cd ~/docker-nginx/html
 vi index.html
